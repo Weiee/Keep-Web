@@ -14,5 +14,5 @@ web静态资源及优化：https://juejin.im/post/5a098b5bf265da431a42b227
 
 书籍：  
 《javascript面向对象编程指南》  
-《javascript语言精粹》
+《javascript语言精粹》  
 CSS设计指南：http://d.odbook.com/web/CSS%E8%AE%BE%E8%AE%A1%E6%8C%87%E5%8D%97.pdf  
